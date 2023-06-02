@@ -1,0 +1,92 @@
+[
+    {
+        "id": 60,
+        "attribute": "Pruning",
+        "blockId": 463,
+        "rowId": 10000,
+        "modifiedOn": "2023-04-11T22:29:31.566253",
+        "scanArea": 554.4000000000001,
+        "scanDate": "2023-04-11T22:29:31.566253",
+        "scanWindowStart": "2023-04-11T22:29:31.566253",
+        "vineCounts": [140, 0, 0],
+        "customStats": [
+            { "attribute": "canes0", "vinecount": 1, "attributeVal": 0 },
+            { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
+            { "attribute": "canes2", "vinecount": 9, "attributeVal": 2 },
+            { "attribute": "canes3", "vinecount": 130, "attributeVal": 3 },
+            { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
+        ]
+    },
+    {
+        "id": 61,
+        "attribute": "Pruning",
+        "blockId": 463,
+        "rowId": 10001,
+        "modifiedOn": "2023-04-11T22:34:04.458191",
+        "scanArea": 570.24,
+        "scanDate": "2023-04-11T22:34:04.458191",
+        "scanWindowStart": "2023-04-11T22:34:04.458191",
+        "vineCounts": [144, 0, 0],
+        "customStats": [
+            { "attribute": "canes0", "vinecount": 1, "attributeVal": 0 },
+            { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
+            { "attribute": "canes2", "vinecount": 6, "attributeVal": 2 },
+            { "attribute": "canes3", "vinecount": 137, "attributeVal": 3 },
+            { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
+        ]
+    },
+    {
+        "id": 62,
+        "attribute": "Pruning",
+        "blockId": 463,
+        "rowId": 10002,
+        "modifiedOn": "2023-04-11T22:34:05.976692",
+        "scanArea": 582.1200000000001,
+        "scanDate": "2023-04-11T22:34:05.976692",
+        "scanWindowStart": "2023-04-11T22:34:05.976692",
+        "vineCounts": [147, 0, 0],
+        "customStats": [
+            { "attribute": "canes0", "vinecount": 0, "attributeVal": 0 },
+            { "attribute": "canes1", "vinecount": 1, "attributeVal": 1 },
+            { "attribute": "canes2", "vinecount": 6, "attributeVal": 2 },
+            { "attribute": "canes3", "vinecount": 140, "attributeVal": 3 },
+            { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
+        ]
+    },
+    {
+        "id": 63,
+        "attribute": "Pruning",
+        "blockId": 463,
+        "rowId": 10003,
+        "modifiedOn": "2023-04-11T22:38:54.146662",
+        "scanArea": 530.6400000000001,
+        "scanDate": "2023-04-11T22:38:54.146662",
+        "scanWindowStart": "2023-04-11T22:38:54.146662",
+        "vineCounts": [134, 0, 0],
+        "customStats": [
+            { "attribute": "canes0", "vinecount": 0, "attributeVal": 0 },
+            { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
+            { "attribute": "canes2", "vinecount": 9, "attributeVal": 2 },
+            { "attribute": "canes3", "vinecount": 125, "attributeVal": 3 },
+            { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
+        ]
+    },
+    {
+        "id": 64,
+        "attribute": "Pruning",
+        "blockId": 463,
+        "rowId": 10004,
+        "modifiedOn": "2023-04-11T21:36:35.45136",
+        "scanArea": 0.0,
+        "scanDate": "2023-04-11T21:36:35.45136",
+        "scanWindowStart": "2023-04-11T21:36:35.45136",
+        "vineCounts": [0, 0, 0],
+        "customStats": [
+            { "attribute": "canes0", "vinecount": 0, "attributeVal": 0 },
+            { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
+            { "attribute": "canes2", "vinecount": 0, "attributeVal": 2 },
+            { "attribute": "canes3", "vinecount": 0, "attributeVal": 3 },
+            { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
+        ]
+    }
+]
