@@ -8,11 +8,11 @@
         "scanArea": 554.4000000000001,
         "scanDate": "2023-04-11T22:29:31.566253",
         "scanWindowStart": "2023-04-11T22:29:31.566253",
-        "vineCounts": [140, 0, 0],
+        "vineCounts": [150, 0, 0],
         "customStats": [
             { "attribute": "canes0", "vinecount": 1, "attributeVal": 0 },
             { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
-            { "attribute": "canes2", "vinecount": 9, "attributeVal": 2 },
+            { "attribute": "canes2", "vinecount": 19, "attributeVal": 2 },
             { "attribute": "canes3", "vinecount": 130, "attributeVal": 3 },
             { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
         ]
