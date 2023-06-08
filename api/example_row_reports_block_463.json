@@ -26,11 +26,11 @@
         "scanArea": 570.24,
         "scanDate": "2023-04-11T22:34:04.458191",
         "scanWindowStart": "2023-04-11T22:34:04.458191",
-        "vineCounts": [144, 0, 0],
+        "vineCounts": [194, 0, 0],
         "customStats": [
             { "attribute": "canes0", "vinecount": 1, "attributeVal": 0 },
             { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
-            { "attribute": "canes2", "vinecount": 6, "attributeVal": 2 },
+            { "attribute": "canes2", "vinecount": 56, "attributeVal": 2 },
             { "attribute": "canes3", "vinecount": 137, "attributeVal": 3 },
             { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
         ]
@@ -44,11 +44,11 @@
         "scanArea": 582.1200000000001,
         "scanDate": "2023-04-11T22:34:05.976692",
         "scanWindowStart": "2023-04-11T22:34:05.976692",
-        "vineCounts": [147, 0, 0],
+        "vineCounts": [211, 0, 0],
         "customStats": [
             { "attribute": "canes0", "vinecount": 0, "attributeVal": 0 },
             { "attribute": "canes1", "vinecount": 1, "attributeVal": 1 },
-            { "attribute": "canes2", "vinecount": 6, "attributeVal": 2 },
+            { "attribute": "canes2", "vinecount": 70, "attributeVal": 2 },
             { "attribute": "canes3", "vinecount": 140, "attributeVal": 3 },
             { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
         ]
@@ -66,8 +66,8 @@
         "customStats": [
             { "attribute": "canes0", "vinecount": 0, "attributeVal": 0 },
             { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
-            { "attribute": "canes2", "vinecount": 9, "attributeVal": 2 },
-            { "attribute": "canes3", "vinecount": 125, "attributeVal": 3 },
+            { "attribute": "canes2", "vinecount": 29, "attributeVal": 2 },
+            { "attribute": "canes3", "vinecount": 105, "attributeVal": 3 },
             { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
         ]
     },
@@ -77,15 +77,15 @@
         "blockId": 463,
         "rowId": 10004,
         "modifiedOn": "2023-04-11T21:36:35.45136",
-        "scanArea": 0.0,
+        "scanArea": 99.00000000000001,
         "scanDate": "2023-04-11T21:36:35.45136",
         "scanWindowStart": "2023-04-11T21:36:35.45136",
-        "vineCounts": [0, 0, 0],
+        "vineCounts": [25, 0, 0],
         "customStats": [
             { "attribute": "canes0", "vinecount": 0, "attributeVal": 0 },
             { "attribute": "canes1", "vinecount": 0, "attributeVal": 1 },
             { "attribute": "canes2", "vinecount": 0, "attributeVal": 2 },
-            { "attribute": "canes3", "vinecount": 0, "attributeVal": 3 },
+            { "attribute": "canes3", "vinecount": 25, "attributeVal": 3 },
             { "attribute": "canes4", "vinecount": 0, "attributeVal": 4 }
         ]
     }
